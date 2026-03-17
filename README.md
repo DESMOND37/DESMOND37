@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=DESMOND37&style=flat-square&color=blue)
 -->
 
-[.github@dsmnd37](https://github.com/DESMOND37):~$ whoami
+[dsmnd37@.github](https://github.com/DESMOND37):~$ whoami
 # DSMND37 - Founder of a DSMND Software
 
 **Musician | Junior 2D/3D Concept/Character Artist | Junior Programmer | Game Developer | Junior Web Designer**
