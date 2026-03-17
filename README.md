@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 ![OpenCL](https://img.shields.io/badge/OpenCL_❌-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 ![Vulkan](https://img.shields.io/badge/Vulkan_❌-A41E22?style=for-the-badge&logo=vulkan&logoColor=white)
 ![Direct3D](https://img.shields.io/badge/Direct3D_❌-0F7B0F?style=for-the-badge&logo=hlsl&logoColor=white)
-![HLSL](https://img.shields.io/badge/HLSL_❌-0F7B0F?style=for-the-badge&logo=hlsl&logoColor=white)
+![HLSL](https://img.shields.io/badge/HLSL_±-0F7B0F?style=for-the-badge&logo=hlsl&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL_❌-5A8AA7?style=for-the-badge&logo=glsl&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake_±-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown_✅-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
