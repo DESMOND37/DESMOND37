@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# DSMND Software
-## About
+# Founder of a DSMND Software
 > Just a description of my profile on GitHub
+
+![](https://komarev.com/ghpvc/?username=DESMOND37&style=flat-square&color=blue)
