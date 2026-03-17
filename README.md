@@ -81,7 +81,7 @@ A few words about The PAIN[T]ED: A Noir Detective Thriller:
 
 ---
 
-### 🚀 Мои проекты
+### 🚀 Мои проекты:
 * **[SUMINAGASHI](https://www.youtube.com/watch?v=T52YuOeUnUE)** — Мой дебютный Post-Metal альбом.
 * **The PAIN[T]ED: A Noir Detective Thriller** — Нуарный психологический триллерный шутер на UE5 от первого/третьего лица. Мой основной проект, где я экспериментирую с освещением, постпроцессом, тонмаппингом, иммерсивностью, мувментом и анимациями.
 * **Hotline: Escape from Boguchany** — Динамичная игра, вдохновлённая Hotline Miami и Katana Zero, разрабатываемая DSMND Software в коллаборации c Boguchany Studios на движке Godot.
