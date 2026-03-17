@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ![GLSL](https://img.shields.io/badge/GLSL_❌-5A8AA7?style=for-the-badge&logo=glsl&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake_±-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
 
-Some features of The PAIN[T]ED: A Noir Detective Thriller:
+A few words about The PAIN[T]ED: A Noir Detective Thriller:
 * **Engine:** Unreal Engine ViteFork.
 * **Rendering:** Forward Rendering, AgX Tonemapping, DirectX 11.
 * **Physics/Movement:** Source-style movement (Bhop/Strafe), Motion Matching.
