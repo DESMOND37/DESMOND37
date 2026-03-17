@@ -29,6 +29,8 @@ Here are some ideas to get you started:
     DSMND37 - Founder of a DSMND Software
     </br>
     <img src="https://komarev.com/ghpvc/?username=DESMOND37&style=flat-square&color=blue" alt=""/>
+    <img src="https://img.shields.io/badge/ArtStation-2313AFF0?style=social&amp;logo=artstation&amp;logoColor=2313AFF0" alt="ArtStation">
+    <img src="https://img.shields.io/badge/BlueprintUE-137CBD?style=social&amp;logo=blueprint&amp;logoColor=137CBD" alt="BlueprintUE">
   </h1>
 </div>
 
@@ -69,6 +71,7 @@ Here are some ideas to get you started:
 ![HLSL](https://img.shields.io/badge/HLSL_❌-0F7B0F?style=for-the-badge&logo=hlsl&logoColor=white)
 ![GLSL](https://img.shields.io/badge/GLSL_❌-5A8AA7?style=for-the-badge&logo=glsl&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake_±-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 A few words about The PAIN[T]ED: A Noir Detective Thriller:
 * **Engine:** Unreal Engine ViteFork.
@@ -101,20 +104,15 @@ A few words about The PAIN[T]ED: A Noir Detective Thriller:
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td width="50%" valign="top">
-      <h3>📊 Статистика</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=DESMOND37&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+      <h3 align="center">📊 Общая статистика:</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=DESMOND37&show_icons=true&theme=shadow_red&hide_border=false&bg_color=080D11&text_color=EB4C42&title_color=FF0038&icon_color=FF0038" alt="GitHub Stats" />
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📫 Мои прочие профили</h3>
-      <p align="left">&nbsp&#x2022;&nbsp
-        <a href="https://www.artstation.com/dsmnd37">
-          <img src="https://img.shields.io/badge/ArtStation-13AFF0?style=social&logo=artstation&logoColor=13AFF0" alt="ArtStation" />
-        </a>
-      </p>
-      <p align="left">&nbsp&#x2022;&nbsp
-        <a href="https://blueprintue.com/profile/dsmnd37">
-          <img src="https://img.shields.io/badge/BlueprintUE-137CBD?style=social&logo=blueprint&logoColor=137CBD" alt="BlueprintUE" />
-        </a>
+      <h3 align="left">📊 Статистика по использованию тех или иных языков программирования: </br> P.S. Может быть не полной, т.к. большая часть моих репозиториев скрыта.</h3>
+      <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESMOND37&amp&theme=shadow_red&amp&hide_border=false&amp&include_all_commits=false&amp&count_private=false&amp&layout=compact&bg_color=080D11&text_color=EB4C42&title_color=FF0038&icon_color=FF0038" alt="" />
       </p>
     </td>
   </tr>
