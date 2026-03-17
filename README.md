@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 [dsmnd37@.github](https://github.com/DESMOND37):~$ whoami
 # DSMND37 - Founder of a DSMND Software
 
+![](https://komarev.com/ghpvc/?username=DESMOND37&style=flat-square&color=blue)
+
 **Musician | Junior 2D/3D Concept/Character Artist | Junior Programmer | Game Developer | Junior Web Designer**
 
 Разрабатываю личный проект на **Unreal Engine 5**. В свободное время пишу музыку в жанрах: индустриальное техно и пост-метал, так же сочиняю импровизации на пианино.
