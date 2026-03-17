@@ -103,13 +103,13 @@ A few words about The PAIN[T]ED: A Noir Detective Thriller:
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" valign="down">
       <h3 align="center">📊 Общая статистика:</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=DESMOND37&show_icons=true&theme=shadow_red&hide_border=false&bg_color=080D11&text_color=EB4C42&title_color=FF0038&icon_color=FF0038&border_radius=15" alt="GitHub Stats" />
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" valign="down">
       <h3 align="left">📊 Статистика по использованию тех или иных языков программирования: </br> P.S. Может быть не полной, т.к. большая часть моих репозиториев скрыта.</h3>
       <p align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DESMOND37&amp&theme=shadow_red&amp&hide_border=false&amp&include_all_commits=false&amp&count_private=false&amp&layout=compact&bg_color=080D11&text_color=EB4C42&title_color=FF0038&icon_color=FF0038&border_radius=10" alt="" />
