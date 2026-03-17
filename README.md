@@ -20,11 +20,17 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=DESMOND37&style=flat-square&color=blue)
 -->
+<div align="center">
+  <p><a href="https://github.com/DESMOND37">dsmnd37@.github</a>:~$ whoami</p>
+</div>
 
-[dsmnd37@.github](https://github.com/DESMOND37):~$ whoami
-# DSMND37 - Founder of a DSMND Software
-
-![](https://komarev.com/ghpvc/?username=DESMOND37&style=flat-square&color=blue)
+<div align="center">
+  <h1>
+    DSMND37 - Founder of a DSMND Software
+    </br>
+    <img src="https://komarev.com/ghpvc/?username=DESMOND37&style=flat-square&color=blue" alt=""/>
+  </h1>
+</div>
 
 **Musician | Junior 2D/3D Concept/Character Artist | Junior Programmer | Game Developer | Junior Web Designer**
 
