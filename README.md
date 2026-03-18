@@ -29,8 +29,8 @@ Here are some ideas to get you started:
     DSMND37 - Founder of a DSMND Software
     </br>
     <img src="https://komarev.com/ghpvc/?username=DESMOND37&style=flat-square&color=blue" alt=""/>
-    <img src="https://img.shields.io/badge/ArtStation-2313AFF0?style=social&amp;logo=artstation&amp;logoColor=2313AFF0" alt="ArtStation">
-    <img src="https://img.shields.io/badge/BlueprintUE-137CBD?style=social&amp;logo=blueprint&amp;logoColor=137CBD" alt="BlueprintUE">
+    <a href="https://www.artstation.com/dsmnd37"><img src="https://img.shields.io/badge/ArtStation-2313AFF0?style=social&amp;logo=artstation&amp;logoColor=2313AFF0" alt="ArtStation"></a>
+    <a href="https://blueprintue.com/profile/dsmnd37"><img src="https://img.shields.io/badge/BlueprintUE-137CBD?style=social&amp;logo=blueprint&amp;logoColor=137CBD" alt="BlueprintUE"></a>
   </h1>
 </div>
 
