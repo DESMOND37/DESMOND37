@@ -80,7 +80,7 @@ A few words about The PAIN[T]ED: A Noir Detective Thriller:
 * **Engine:** Unreal Engine ViteFork.
 * **Rendering:** Forward Rendering, AgX Tonemapping, DirectX 11.
 * **Physics/Movement:** Source-style movement (Bhop/Strafe), Motion Matching.
-* **Art & Sound:** 2D Art/3D Modelling, VST Production (Industrial Techno/Technical Post-Metal/Piano Improvisations).
+* **Art & Sound:** 2D Art/3D Modelling, VST Production (Industrial Techno/Technical Post-Metal/Piano Improvisations/Dark Jazz).
 
 ---
 
