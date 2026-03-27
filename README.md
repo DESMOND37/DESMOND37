@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/markdown_✅-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 A few words about The PAIN[T]ED: A Noir Detective Thriller:
-* **Engine:** Unreal Engine ViteFork.
+* **Engine:** Unreal Engine 5 (with custom pipline).
 * **Rendering:** Forward Rendering, AgX Tonemapping, DirectX 11.
 * **Physics/Movement:** Source-style movement (Bhop/Strafe), Motion Matching.
 * **Art & Sound:** 2D Art/3D Modelling, VST Production (Industrial Techno/Technical Post-Metal/Piano Improvisations/Dark Jazz).
@@ -85,6 +85,7 @@ A few words about The PAIN[T]ED: A Noir Detective Thriller:
 ---
 
 ### 🚀 Мои проекты:
+* **The PAIN[T]ED: A Noir Platformer Prequel** — Меланхоличный 2D сайд-скроллер, разрабатываемый на Unity, вдохновлённый играми студии Playdead. По сути, из этого проекта в последствии и отпочковался "The PAIN[T]ED: A Noir Detective Thriller" на Unreal Engine. Сам же проект PAIN[T]ED времён Unity билда изначально вообще не имел как такового названия и поначалу должен был быть простеньким файтингом на Macromedia (будущей Adobe) Flash MX в качестве учебного проекта и не более... Однако со временем он превратился в нечто большее, чем просто учебный проект. После моего перехода на Unreal разработка была заморожена на неопределённый срок, но тем не менее проект планируется доделать и выпустить как приквел к основной игре.
 * **[SUMINAGASHI](https://www.youtube.com/watch?v=T52YuOeUnUE)** — Мой дебютный Post-Metal альбом.
 * **The PAIN[T]ED: A Noir Detective Thriller** — Нуарный психологический триллерный шутер на UE5 от первого/третьего лица. Мой основной проект, где я экспериментирую с освещением, постпроцессом, тонмаппингом, иммерсивностью, мувментом и анимациями.
 * **Hotline: Escape from Boguchany** — Динамичная игра, вдохновлённая Hotline Miami и Katana Zero, разрабатываемая DSMND Software в коллаборации c Boguchany Studios на движке Godot.
