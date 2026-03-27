@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 ![Markdown](https://img.shields.io/badge/markdown_✅-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 A few words about The PAIN[T]ED: A Noir Detective Thriller:
-* **Engine:** Unreal Engine 5 (with custom pipline).
+* **Engine:** Unreal Engine 5 (with custom pipeline).
 * **Rendering:** Forward Rendering, AgX Tonemapping, DirectX 11.
 * **Physics/Movement:** Source-style movement (Bhop/Strafe), Motion Matching.
 * **Art & Sound:** 2D Art/3D Modelling, VST Production (Industrial Techno/Technical Post-Metal/Piano Improvisations/Dark Jazz).
