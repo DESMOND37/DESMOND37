@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <h1>
-    DSMND37 - Founder of a DSMND PRODUCTIONS </br> [and 486.Studio (ex. DSMND Software) </br> as DSMND’s subsidiary company]
+    DSMND37 - Founder of a DSMND PRODUCTIONS </br> [486.Studio, DSMND Software, DSMND Music]
     </br>
     <img src="https://komarev.com/ghpvc/?username=DESMOND37&style=flat-square&color=blue" alt=""/>
     <a href="https://www.artstation.com/dsmnd37"><img src="https://img.shields.io/badge/ArtStation-2313AFF0?style=social&amp;logo=artstation&amp;logoColor=2313AFF0" alt="ArtStation"></a>
