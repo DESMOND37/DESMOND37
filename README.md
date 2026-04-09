@@ -90,6 +90,7 @@ A few words about The PAIN[T]ED: A Noir Detective Thriller:
 * **The PAIN[T]ED: A Noir Detective Thriller** — Нуарный психологический триллерный шутер на UE5 от первого/третьего лица. Мой основной проект, где я экспериментирую с освещением, постпроцессом, тонмаппингом, иммерсивностью, мувментом и анимациями.
 * **Hotline: Escape from Boguchany** — Динамичная 2D игра, вдохновлённая Hotline Miami и Katana Zero, разрабатываемая 486.Studio в коллаборации c Boguchany Studios на движке Godot.
 * **[LightCycles-Git](https://github.com/DESMOND37/LightCycles-Git)** — Простая игра на языке C++, вдохновленная аркадной игрой «Светоциклы» из фильма «Трон» '82 года, созданная в коллаборации с Claude Sonnet.
+* **Project "OUTPOST"** — Учебный проект, который я делаю в команде с одногрупником. В основу проекта лягут некоторые механики и наработки из "The PAIN[T]ED: A Noir Detective Thriller". Проект собой представляет видеоигру в жанре шутера от первого лица (FPS) с элементами Action-adventure, вдохновлённую такими играми как Far Cry и S.T.A.L.K.E.R.
 
 ---
 <!--
